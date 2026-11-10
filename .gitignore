@@ -1,0 +1,8 @@
+data/*.tar.gz
+data/**/*.tgz
+data/**/*.gz
+data/**/*.mat
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+data/**/*.part
